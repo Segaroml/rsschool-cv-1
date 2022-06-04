@@ -1,1 +1,2 @@
-# rsschool-cv
+# rsschool-cv  
+with love from maga
